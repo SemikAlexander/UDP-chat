@@ -16,7 +16,7 @@
 
 Реализация клиента и сервера на языке Python (используются другие вызовы):
 
-[![](https://github.com/SemikAlexander/UDP-chat/blob/master/Images/start_chat_server.png)](https://github.com/SemikAlexander/UDP-chat/blob/master/Images/start_chat_server.png "Запуск сервера чата")
+[![](https://github.com/SemikAlexander/UDP-chat/blob/master/Images/start_server.png)](https://github.com/SemikAlexander/UDP-chat/blob/master/Images/start_server.png "Запуск сервера чата")
 > Запуск сервера чата
 
 [![](https://github.com/SemikAlexander/UDP-chat/blob/master/Images/messages_on_server.png)](https://github.com/SemikAlexander/UDP-chat/blob/master/Images/messages_on_server.png "Сообщения, поступающие на сервер")
