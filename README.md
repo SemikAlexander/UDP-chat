@@ -19,7 +19,7 @@
 [![](https://github.com/SemikAlexander/UDP-chat/blob/master/Images/start_chat_server.png)](https://github.com/SemikAlexander/UDP-chat/blob/master/Images/start_chat_server.png "Запуск сервера чата")
 > Запуск сервера чата
 
-[![](https://github.com/SemikAlexander/UDP-chat/blob/master/Images/messages_on_server.png)](https://github.com/SemikAlexander/UDP-chat/blob/master/Images/messages_on_server.png "Сообщения первого клиента")
+[![](https://github.com/SemikAlexander/UDP-chat/blob/master/Images/messages_on_server.png)](https://github.com/SemikAlexander/UDP-chat/blob/master/Images/messages_on_server.png "Сообщения, поступающие на сервер")
 > Сообщения, поступающие на сервер
 
 [![](https://github.com/SemikAlexander/UDP-chat/blob/master/Images/first_client_message.png)](https://github.com/SemikAlexander/UDP-chat/blob/master/Images/first_client_message.png "Сообщения первого клиента")
