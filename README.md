@@ -15,3 +15,15 @@
 При указании адреса используется конкретный адрес сетевого интерфейса или константа INADDR_ANY, для привязки ко всей системе.
 
 Реализация клиента и сервера на языке Python (используются другие вызовы):
+
+[![](https://github.com/SemikAlexander/UDP-chat/blob/master/Images/start_chat_server.png)](https://github.com/SemikAlexander/UDP-chat/blob/master/Images/start_chat_server.png "Запуск сервера чата")
+> Запуск сервера чата
+
+[![](https://github.com/SemikAlexander/UDP-chat/blob/master/Images/messages_on_server.png)](https://github.com/SemikAlexander/UDP-chat/blob/master/Images/messages_on_server.png "Сообщения первого клиента")
+> Сообщения, поступающие на сервер
+
+[![](https://github.com/SemikAlexander/UDP-chat/blob/master/Images/first_client_message.png)](https://github.com/SemikAlexander/UDP-chat/blob/master/Images/first_client_message.png "Сообщения первого клиента")
+> Сообщения первого клиента
+
+[![](https://github.com/SemikAlexander/UDP-chat/blob/master/Images/second_client_message.png)](https://github.com/SemikAlexander/UDP-chat/blob/master/Images/second_client_message.png "Сообщения второго клиента")
+> Сообщения второго клиента
